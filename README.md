@@ -3,7 +3,7 @@
 <h2>Uma loja para jogos onde é possivel executar ações como : criar, editar, armazenar e deletar jogos<h2/>
   
 <h2>Criando<h2/>
-  ![Gameware 1](https://user-images.githubusercontent.com/79441853/165366130-724af8ff-db9f-45c1-ae09-8565356a7295.png)
+![Gameware 1](https://user-images.githubusercontent.com/79441853/165368129-ad80bbec-4fa3-4aeb-b840-6bebbcb1f30e.png)
 <h2>Editando<h2/>
   ![Gameware 2](https://user-images.githubusercontent.com/79441853/165366170-bfb488a4-149e-4044-b043-f7f1b579aec1.png)
   ![Gameware 3](https://user-images.githubusercontent.com/79441853/165367767-eac7f990-147b-41ca-a34a-4bc25017429f.png)
